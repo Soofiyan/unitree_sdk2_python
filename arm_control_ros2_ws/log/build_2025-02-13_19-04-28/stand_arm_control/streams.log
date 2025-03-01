@@ -1,0 +1,24 @@
+[0.194s] Invoking command in '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/src/stand_arm_control': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stand_arm_control build --build-base /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build install --record /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/install.log --single-version-externally-managed install_data
+[0.268s] running egg_info
+[0.269s] writing ../../build/stand_arm_control/stand_arm_control.egg-info/PKG-INFO
+[0.269s] writing dependency_links to ../../build/stand_arm_control/stand_arm_control.egg-info/dependency_links.txt
+[0.269s] writing entry points to ../../build/stand_arm_control/stand_arm_control.egg-info/entry_points.txt
+[0.269s] writing requirements to ../../build/stand_arm_control/stand_arm_control.egg-info/requires.txt
+[0.269s] writing top-level names to ../../build/stand_arm_control/stand_arm_control.egg-info/top_level.txt
+[0.269s] reading manifest file '../../build/stand_arm_control/stand_arm_control.egg-info/SOURCES.txt'
+[0.270s] writing manifest file '../../build/stand_arm_control/stand_arm_control.egg-info/SOURCES.txt'
+[0.270s] running build
+[0.270s] running build_py
+[0.270s] copying stand_arm_control/g1_arm7_sdk_pub_vive_sub.py -> /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build/lib/stand_arm_control
+[0.270s] running install
+[0.270s] running install_lib
+[0.270s] copying /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build/lib/stand_arm_control/g1_arm7_sdk_pub_vive_sub.py -> /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control
+[0.270s] byte-compiling /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control/g1_arm7_sdk_pub_vive_sub.py to g1_arm7_sdk_pub_vive_sub.cpython-310.pyc
+[0.271s] running install_data
+[0.271s] running install_egg_info
+[0.272s] removing '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control-0.0.0-py3.10.egg-info' (and everything under it)
+[0.272s] Copying ../../build/stand_arm_control/stand_arm_control.egg-info to /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control-0.0.0-py3.10.egg-info
+[0.272s] running install_scripts
+[0.281s] Installing pub_arm_sub_vive script to /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/stand_arm_control
+[0.281s] writing list of installed files to '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/install.log'
+[0.290s] Invoked command in '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/src/stand_arm_control' returned '0': CONDA_PROMPT_MODIFIER=(base) PYTHONPATH=/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/stand_arm_control build --build-base /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build install --record /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/install.log --single-version-externally-managed install_data

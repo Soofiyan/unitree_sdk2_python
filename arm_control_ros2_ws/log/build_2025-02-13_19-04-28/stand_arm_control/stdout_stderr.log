@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/stand_arm_control/stand_arm_control.egg-info/PKG-INFO
+writing dependency_links to ../../build/stand_arm_control/stand_arm_control.egg-info/dependency_links.txt
+writing entry points to ../../build/stand_arm_control/stand_arm_control.egg-info/entry_points.txt
+writing requirements to ../../build/stand_arm_control/stand_arm_control.egg-info/requires.txt
+writing top-level names to ../../build/stand_arm_control/stand_arm_control.egg-info/top_level.txt
+reading manifest file '../../build/stand_arm_control/stand_arm_control.egg-info/SOURCES.txt'
+writing manifest file '../../build/stand_arm_control/stand_arm_control.egg-info/SOURCES.txt'
+running build
+running build_py
+copying stand_arm_control/g1_arm7_sdk_pub_vive_sub.py -> /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build/lib/stand_arm_control
+running install
+running install_lib
+copying /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/build/lib/stand_arm_control/g1_arm7_sdk_pub_vive_sub.py -> /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control
+byte-compiling /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control/g1_arm7_sdk_pub_vive_sub.py to g1_arm7_sdk_pub_vive_sub.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/stand_arm_control/stand_arm_control.egg-info to /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/python3.10/site-packages/stand_arm_control-0.0.0-py3.10.egg-info
+running install_scripts
+Installing pub_arm_sub_vive script to /home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/install/stand_arm_control/lib/stand_arm_control
+writing list of installed files to '/home/soofiyan/workspaces/unitree/unitree_sdk2_python/arm_control_ros2_ws/build/stand_arm_control/install.log'
